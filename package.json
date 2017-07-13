@@ -1,0 +1,12 @@
+{
+  "name": "LearnSpanishBot",
+  "version": "1.0.0",
+  "description": "Telegram bot for learning spanish letters every day.",
+  "main": "index.js",
+  "repository": "https://github.com/cr1msaun/learn-spanish-bot",
+  "author": "cr1msaun",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1"
+  }
+}
